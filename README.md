@@ -1,2 +1,3 @@
-# docker-lighthouse
-Docker Lighthouse, it's a menu bar app for controlling docker machines from a GUI.
+# toolbox-ui
+toolbox-ui aims to bring a better user experience to the official [docker toolbox](https://github.com/docker/toolbox) 
+
